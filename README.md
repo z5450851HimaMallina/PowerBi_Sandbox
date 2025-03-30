@@ -1,8 +1,8 @@
 # Contoso Hotel: Performance Analysis & Recommendations
 Note: Detailed Business Report is attached (Contoso.pptx) in this repository. 
 
-## Business Overview 
-Contoso Hotel operates across Hawaiian islands with 32,000 customers (target: 45,000), $1,420 average revenue per reservation (target: $2,830), and 12% return rate (target: 23%).
+### Business Overview 
+Contoso Hotel, with its picturesque properties across Hawaii's islands of Oahu, Maui, Kauai, and Hawaii Island, has established itself as a premier destination for global travelers. The company aims to increase its total customer base from the current 32,000 to the target of 45,000 while improving the average revenue per reservation from $1,420 to $2,830. With a current return rate of 12% against a target of 23%, enhancing customer loyalty represents a significant opportunity for growth. These objectives must be achieved while maintaining operational efficiency across their diverse property portfolio.
 <img width="1015" alt="image" src="https://github.com/user-attachments/assets/d6b187dc-87cb-4d9b-8500-5c89cb5b0762" />
 
 1)This dashboard tracks overall performance metrics including total customers (current: 32K, target: 45K) and return rate (12%), allowing management to monitor key performance indicators at a glance.
@@ -13,7 +13,7 @@ Contoso Hotel operates across Hawaiian islands with 32,000 customers (target: 45
 
 4)Monthly analysis shows significant fluctuations in both customer numbers and return rates, with notable spikes in April and September-October, suggesting seasonal trends that could inform marketing strategies.
 
-## Starting with Customer Segmentation
+### Starting with Customer Segmentation
 <img width="998" alt="image" src="https://github.com/user-attachments/assets/90fe5648-1459-490a-a44c-e8774a0a4803" />
 
 1)Gender analysis reveals a customer base that skews male (60.72% of total customers), though females have a significantly higher return rate (68.8% vs 31.2%).
@@ -24,7 +24,7 @@ Contoso Hotel operates across Hawaiian islands with 32,000 customers (target: 45
 
 4)Customer interest data reveals diverse preferences across age groups, with honeymoon being a significant driver for the 31-40 age bracket, which could inform targeted marketing campaigns.
 
-## Customer Preference and Behaviour
+### Customer Preference and Behaviour
 <img width="914" alt="image" src="https://github.com/user-attachments/assets/ffcfd6e7-e31c-4b6c-8d42-545cf660819b" />
 
 1)Sightseeing is the dominant primary interest (16,854 customers/52.1%), followed by relaxation (8,828/27.3%), honeymoon (5,228/16.2%), and sports activities (1,322/4.1%).
@@ -35,7 +35,7 @@ Contoso Hotel operates across Hawaiian islands with 32,000 customers (target: 45
 
 4)Customers who purchase spa visits or rent sports equipment show higher return rates across all primary interest categories, suggesting these amenities drive loyalty.
 
-## Revenue Trend
+### Revenue Trend
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/f4925e64-ec27-486f-b667-bcd6dffd912d" />
 
 1)Month-over-Month (MoM) growth shows significant volatility throughout the year, with strong positive growth in March (159%), April (370%), and November (492%).
@@ -46,7 +46,7 @@ Contoso Hotel operates across Hawaiian islands with 32,000 customers (target: 45
 
 4)Revenue distribution across Hawaiian islands shows Oahu consistently generating the highest proportion of revenue, though with seasonal variations in the contribution from other islands.
 
-## Marketing 
+### Marketing 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b33a60c7-028f-4dc2-8b0c-1b704f3a07c8" />
 Customer acquisition channels analysis shows the website as the primary source (55.11%/18K customers), followed by social media (39.81%/13K) and email (5.08%/2K).
 
@@ -56,7 +56,7 @@ Customer acquisition channels analysis shows the website as the primary source (
 
 3)Return rates appear to vary by acquisition source, with the heatmap suggesting differences in customer loyalty based on how they discovered the hotel.
 
-## Sales 
+### Sales 
 <img width="974" alt="image" src="https://github.com/user-attachments/assets/537cf0aa-cb34-43d0-9292-a4f8ecd68d07" />
 
 1)Gender analysis shows males have a higher average revenue per reservation ($1.37K) compared to females ($1.16K), but females generate more revenue when purchasing spa services.
@@ -67,7 +67,7 @@ Customer acquisition channels analysis shows the website as the primary source (
 
 4)Primary interest analysis reveals "Relaxation" guests generate the highest revenue per reservation across all islands, suggesting opportunity for premium pricing of relaxation packages.
 
-## Key Findings
+### Key Findings
 * 90.6% repeat customers despite high seasonal volatility
 * Female guests show higher loyalty (68.8% return rate) than males (31.2%)
 * Guests over 60 spend most ($2,771/reservation) with 100% return rate
@@ -75,7 +75,7 @@ Customer acquisition channels analysis shows the website as the primary source (
 * Website drives most acquisitions (55.1%), followed by social media (39.8%)
 * Oahu generates dominant revenue ($34.9M)
 
-## Recommendations
+### Recommendations
 1. Loyalty Program: Implement gender-specific rewards targeting spa services for females and sports rentals for males, with special recognition for seniors.
 2. Seasonal Strategy: Create off-peak packages targeting key markets and develop seasonal sightseeing excursions.
 3. Channel Optimization: Increase website investment (focus on Germany), enhance social media for Australia, and revitalize email marketing.
